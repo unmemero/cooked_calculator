@@ -194,7 +194,7 @@ function App() {
                 checked={useDetailedProject}
                 onChange={(e) => setUseDetailedProject(e.target.checked)}
               />
-              <span>Use detailed breakdown</span>
+              <span>Use detailed breakdown or estimated total fro project</span>
             </label>
           </div>
 
